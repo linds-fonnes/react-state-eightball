@@ -23,3 +23,8 @@
 .Eightball-black {
     background-color: black;
 }
+
+.Eightball-button {
+    background-color: indianred;
+    font-size: 1.3rem;
+}
