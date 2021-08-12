@@ -1,0 +1,25 @@
+.Eightball-container {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.Eightball-green {
+    background-color: green;
+}
+
+.Eightball-goldenrod {
+    background-color: goldenrod;
+}
+
+.Eightball-red {
+    background-color: red;
+}
+
+.Eightball-black {
+    background-color: black;
+}
